@@ -1,2 +1,3 @@
 # HELLOWORLD
-week 3 assignment for Pro prep
+# Description 
+Week 3 assignment for Pro Prep
